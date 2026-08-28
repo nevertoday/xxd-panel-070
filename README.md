@@ -14,9 +14,37 @@
 
 </div>
 
-## 样张位
+## 16:9 左右双联样张
 
-当前只收到原始提示词，尚未提供可核验的原始 X 样张或出处，因此 `sample-01`–`04` 保留给未来的原始样张，`sample-05`–`12` 保留给经过逐张风格验收的扩展样张。项目不会用生成图冒充原始样张。
+以下四张使用 `group_020` 的 `077.jpg`、`078.jpg`、`079.png`、`080.jpg`，每张都是独立完整画布：左侧保留现实摄影，右侧依照 070 原始提示词完成手绘编辑转译；英文文字由当前照片自行触发，不编造地点、日期或资料信息。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 070 16:9 左右样张 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 070 16:9 左右样张 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 070 16:9 左右样张 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 070 16:9 左右样张 4"></td>
+  </tr>
+</table>
+
+## 3:4 上下双联样张
+
+下列四张与横版逐一复用同一组源照片，但分别重新生成完整 3:4 画布；不是把 16:9 成品机械裁切为竖图。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 070 3:4 上下样张 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 070 3:4 上下样张 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 070 3:4 上下样张 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 070 3:4 上下样张 4"></td>
+  </tr>
+</table>
+
+`sample-01`–`04` 仍保留给未来可核验的原始 X 样张；上面八张明确属于扩展样张，不会冒充原作。
 
 <!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题

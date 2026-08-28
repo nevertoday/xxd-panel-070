@@ -14,9 +14,37 @@
 
 </div>
 
-## 예시 자리
+## 16:9 좌우 예시
 
-현재 제공된 것은 원본 프롬프트뿐이며 검증 가능한 X 원작 예시나 출처는 아직 없습니다. `sample-01`–`04`는 원작 예시용, `sample-05`–`12`는 개별 검수를 거친 확장 예시용으로 남겨 둡니다. 생성 이미지를 원작 예시로 가장하지 않습니다.
+네 작품은 `group_020`의 `077`–`080`을 파일명 순서로 사용합니다. 모두 독립된 완전한 캔버스 생성이며 왼쪽에는 현실 사진, 오른쪽에는 070 원본 프롬프트에 따른 손그림 편집 변환이 놓입니다. 영어 문구는 각 이미지에서 나오며 확인되지 않은 장소, 날짜, 자료 정보를 만들지 않습니다.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 070 16:9 좌우 예시 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 070 16:9 좌우 예시 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 070 16:9 좌우 예시 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 070 16:9 좌우 예시 4"></td>
+  </tr>
+</table>
+
+## 3:4 상하 예시
+
+같은 네 원본 사진을 같은 순서로 재사용하지만 모든 3:4 캔버스는 새로 완전 생성됩니다. 16:9 결과물을 기계적으로 자른 것이 아닙니다.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 070 3:4 상하 예시 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 070 3:4 상하 예시 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 070 3:4 상하 예시 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 070 3:4 상하 예시 4"></td>
+  </tr>
+</table>
+
+`sample-01`–`04`는 앞으로 검증 가능한 X 원작 예시를 위해 남겨 둡니다. 위의 여덟 장은 확장 예시로 명확히 구분하며 원작으로 표시하지 않습니다.
 
 <!-- xxd-human-intro:start -->
 ## 이 스타일이 해결하는 문제

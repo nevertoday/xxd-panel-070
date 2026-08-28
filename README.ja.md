@@ -14,9 +14,37 @@
 
 </div>
 
-## 作例スロット
+## 16:9 左右作例
 
-現時点で提供されているのは原文プロンプトだけです。検証可能な X の原作例や出典はまだないため、`sample-01`–`04` は原作例、`sample-05`–`12` は個別審査済みの追加作例用に予約しています。生成画像を原作例として扱うことはありません。
+4枚は `group_020` の `077`–`080` をファイル名順に使用しています。すべて独立した完全画布生成で、左に現実写真、右に 070 原文プロンプトによる手描き編集変換を配置します。英語文は各画像から生まれ、未確認の場所、日付、資料情報を作りません。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 070 16:9 左右作例 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 070 16:9 左右作例 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 070 16:9 左右作例 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 070 16:9 左右作例 4"></td>
+  </tr>
+</table>
+
+## 3:4 上下作例
+
+同じ4枚の元写真を同じ順番で使いますが、各3:4画布はあらためて完全生成されています。16:9成品の機械的なトリミングではありません。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 070 3:4 上下作例 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 070 3:4 上下作例 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 070 3:4 上下作例 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 070 3:4 上下作例 4"></td>
+  </tr>
+</table>
+
+`sample-01`–`04` は将来の検証可能な X 原作例のために予約されています。上記8枚は追加作例として明確に区別し、原作とは表示しません。
 
 <!-- xxd-human-intro:start -->
 ## このスタイルが解決すること

@@ -14,9 +14,37 @@
 
 </div>
 
-## Sample slots
+## 16:9 left-right samples
 
-Only the original prompt has been supplied so far. No verifiable original X samples or source post are available, so `sample-01`–`04` remain reserved for original works and `sample-05`–`12` for future, individually reviewed extensions. Generated images are never presented as original samples.
+These four works use `group_020` sources `077`–`080` in filename order. Each is a separate complete-canvas generation: the reality photograph stays on the left, while the right side follows the canonical Panel 070 brief. English copy grows from the visible image without invented locations, dates, or documentary claims.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 070 16:9 left-right sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 070 16:9 left-right sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 070 16:9 left-right sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 070 16:9 left-right sample 4"></td>
+  </tr>
+</table>
+
+## 3:4 top-bottom samples
+
+The portrait set reuses the same four source photographs in the same order, but every 3:4 canvas is generated afresh; none is a mechanical crop of its 16:9 counterpart.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 070 3:4 top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 070 3:4 top-bottom sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 070 3:4 top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 070 3:4 top-bottom sample 4"></td>
+  </tr>
+</table>
+
+`sample-01`–`04` remain reserved for future, verifiable original X works. The eight images above are explicitly labelled extensions and are never presented as originals.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
