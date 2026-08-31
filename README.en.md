@@ -14,37 +14,23 @@
 
 </div>
 
-## 16:9 left-right samples
+## Sample gallery
 
-These four works use `group_020` sources `077`–`080` in filename order. Each is a separate complete-canvas generation: the reality photograph stays on the left, while the right side follows the canonical Panel 070 brief. English copy grows from the visible image without invented locations, dates, or documentary claims.
+**16:9 landscape left–right samples**
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 070 16:9 left-right sample 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 070 16:9 left-right sample 2"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 070 16:9 left-right sample 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 070 16:9 left-right sample 4"></td>
-  </tr>
-</table>
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
-## 3:4 top-bottom samples
+**3:4 portrait top–bottom samples**
 
-The portrait set reuses the same four source photographs in the same order, but every 3:4 canvas is generated afresh; none is a mechanical crop of its 16:9 counterpart.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 070 3:4 top-bottom sample 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 070 3:4 top-bottom sample 2"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 070 3:4 top-bottom sample 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 070 3:4 top-bottom sample 4"></td>
-  </tr>
-</table>
-
-`sample-01`–`04` remain reserved for future, verifiable original X works. The eight images above are explicitly labelled extensions and are never presented as originals.
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 070 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves

@@ -14,37 +14,23 @@
 
 </div>
 
-## 16:9 좌우 예시
+## 예시 갤러리
 
-네 작품은 `group_020`의 `077`–`080`을 파일명 순서로 사용합니다. 모두 독립된 완전한 캔버스 생성이며 왼쪽에는 현실 사진, 오른쪽에는 070 원본 프롬프트에 따른 손그림 편집 변환이 놓입니다. 영어 문구는 각 이미지에서 나오며 확인되지 않은 장소, 날짜, 자료 정보를 만들지 않습니다.
+**16:9 가로형 좌우 구성 예시**
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 070 16:9 좌우 예시 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 070 16:9 좌우 예시 2"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 070 16:9 좌우 예시 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 070 16:9 좌우 예시 4"></td>
-  </tr>
-</table>
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
-## 3:4 상하 예시
+**3:4 세로형 상하 구성 예시**
 
-같은 네 원본 사진을 같은 순서로 재사용하지만 모든 3:4 캔버스는 새로 완전 생성됩니다. 16:9 결과물을 기계적으로 자른 것이 아닙니다.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 070 3:4 상하 예시 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 070 3:4 상하 예시 2"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 070 3:4 상하 예시 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 070 3:4 상하 예시 4"></td>
-  </tr>
-</table>
-
-`sample-01`–`04`는 앞으로 검증 가능한 X 원작 예시를 위해 남겨 둡니다. 위의 여덟 장은 확장 예시로 명확히 구분하며 원작으로 표시하지 않습니다.
+`sample-01`–`sample-04`는 검증 가능한 원본 공개 예시를 위해 남겨 둡니다. 위 여덟 작품은 16:9 가로형 좌우 구성 네 장과 3:4 세로형 상하 구성 네 장입니다. 모두 Panel 070이 자체 원본 프롬프트에 따라 독립적으로 생성했으며 다른 번호의 작품을 재사용하지 않았습니다. 예시 문구는 영어로 자동 생성했습니다.
 
 <!-- xxd-human-intro:start -->
 ## 이 스타일이 해결하는 문제

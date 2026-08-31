@@ -14,37 +14,23 @@
 
 </div>
 
-## نماذج 16:9 يسار–يمين
+## معرض النماذج
 
-تستخدم الأعمال الأربعة ملفات `077`–`080` من `group_020` حسب ترتيب الأسماء. كل صورة توليد مستقل للوحة كاملة: تبقى الصورة الواقعية في اليسار، ويظهر تحويل Panel 070 اليدوي التحريري في اليمين. تنبع الكتابة الإنجليزية من الصورة نفسها من دون اختلاق مكان أو تاريخ أو ادعاء توثيقي.
+**نماذج أفقية 16:9 بتكوين يسار–يمين**
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="نموذج XXD Panel 070 أفقي 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="نموذج XXD Panel 070 أفقي 2"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="نموذج XXD Panel 070 أفقي 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="نموذج XXD Panel 070 أفقي 4"></td>
-  </tr>
-</table>
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
-## نماذج 3:4 أعلى–أسفل
+**نماذج رأسية 3:4 بتكوين أعلى–أسفل**
 
-تعيد المجموعة العمودية استخدام الصور الأربع نفسها وبالترتيب ذاته، لكن كل لوحة 3:4 تُولَّد من جديد كاملة؛ وليست قصّاً آلياً من نسخة 16:9.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="نموذج XXD Panel 070 عمودي 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="نموذج XXD Panel 070 عمودي 2"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="نموذج XXD Panel 070 عمودي 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="نموذج XXD Panel 070 عمودي 4"></td>
-  </tr>
-</table>
-
-تبقى `sample-01`–`04` محفوظة لأعمال X أصلية قابلة للتحقق مستقبلاً. أما الصور الثماني أعلاه فمعلّمة بوضوح كنماذج إضافية ولا تُعرض بوصفها أعمالاً أصلية.
+تبقى `sample-01`–`sample-04` محجوزة لنماذج الإصدار الأصلية القابلة للتحقق. تضم الأعمال الثمانية أعلاه أربعة نماذج أفقية 16:9 بتكوين يسار–يمين وأربعة نماذج رأسية 3:4 بتكوين أعلى–أسفل. ولّد Panel 070 كل عمل بصورة مستقلة وفق موجّهه الأصلي، من دون إعادة استخدام أعمال أي Panel آخر. تستخدم النماذج نصاً إنجليزياً مولّداً بذكاء.
 
 <!-- xxd-human-intro:start -->
 ## ما الذي يحله هذا الأسلوب؟

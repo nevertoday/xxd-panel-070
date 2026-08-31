@@ -14,37 +14,23 @@
 
 </div>
 
-## 16:9 左右双联样张
+## 样张展示
 
-以下四张使用 `group_020` 的 `077.jpg`、`078.jpg`、`079.png`、`080.jpg`，每张都是独立完整画布：左侧保留现实摄影，右侧依照 070 原始提示词完成手绘编辑转译；英文文字由当前照片自行触发，不编造地点、日期或资料信息。
+**16:9 横版左右样张**
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 070 16:9 左右样张 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 070 16:9 左右样张 2"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 070 16:9 左右样张 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 070 16:9 左右样张 4"></td>
-  </tr>
-</table>
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
-## 3:4 上下双联样张
+**3:4 竖版上下样张**
 
-下列四张与横版逐一复用同一组源照片，但分别重新生成完整 3:4 画布；不是把 16:9 成品机械裁切为竖图。
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 070 3:4 上下样张 1"></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 070 3:4 上下样张 2"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 070 3:4 上下样张 3"></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 070 3:4 上下样张 4"></td>
-  </tr>
-</table>
-
-`sample-01`–`04` 仍保留给未来可核验的原始 X 样张；上面八张明确属于扩展样张，不会冒充原作。
+`sample-01`–`sample-04` 保留给未来可核验的原始发布样张。以上八张包括四张 16:9 横版左右样张和四张 3:4 竖版上下样张，均由 Panel 070 依据自己的原始提示词独立生成，不借用其他编号作品。样张使用英文智能配字。
 
 <!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
