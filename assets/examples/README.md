@@ -8,22 +8,22 @@
 
 ## Additional landscape samples
 
-- Content source: `group_020`; all four source files are used once in filename order.
-- `sample-05.png` ← `group_020/077.jpg`
-- `sample-06.png` ← `group_020/078.jpg`
-- `sample-07.png` ← `group_020/079.png`
-- `sample-08.png` ← `group_020/080.jpg`
-- Delivery: 1536×864 PNG, 16:9 left-right composition, English prompt-generated copy.
+- Content source: `group_018`; all four source files are used once in filename order.
+- `sample-05.png` ← `group_018/069.jpg`
+- `sample-06.png` ← `group_018/070.jpg`
+- `sample-07.png` ← `group_018/071.png`
+- `sample-08.png` ← `group_018/072.jpg`
+- Delivery: 1672×941 PNG, 16:9 left-right composition, English prompt-generated copy.
 - Acceptance: reality photograph on the left, Panel 070 transformed design on the right, no third full-width band.
 
 ## Additional portrait samples
 
-- The same four verified inputs are reused in the same order.
-- `sample-09.png` ← `group_020/077.jpg`
-- `sample-10.png` ← `group_020/078.jpg`
-- `sample-11.png` ← `group_020/079.png`
-- `sample-12.png` ← `group_020/080.jpg`
-- Delivery: 1536×2048 PNG, 3:4 top-bottom composition, English prompt-generated copy.
+- Content source: `group_008`; all four source files are used once in filename order.
+- `sample-09.png` ← `group_008/029.jpg`
+- `sample-10.png` ← `group_008/030.jpg`
+- `sample-11.png` ← `group_008/031.jpg`
+- `sample-12.png` ← `group_008/032.jpg`
+- Delivery: 1086×1448 PNG, 3:4 top-bottom composition, English prompt-generated copy.
 - Acceptance: reality photograph above, Panel 070 transformed design below; each is a separate complete-canvas generation rather than a crop of its landscape counterpart.
 
 ## Review record
