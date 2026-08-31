@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 070
+# 🦁 XXD Panel 070｜厚涂治愈岛
 
 ### 把照片提炼成明亮、轻盈、富有出版感的手绘编辑画面
 

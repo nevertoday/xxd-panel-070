@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 070
+# 🦁 XXD Panel 070｜Impasto Cozy Island
 
 ### Distil photographs into bright, light, publication-minded hand-drawn compositions
 

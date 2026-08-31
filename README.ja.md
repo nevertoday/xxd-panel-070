@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 070
+# 🦁 XXD Panel 070｜厚塗り癒しの島
 
 ### 写真を明るく軽やかで出版感のある手描き編集画面へ凝縮する
 
